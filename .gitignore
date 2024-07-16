@@ -1,0 +1,5 @@
+/database
+/vendor
+/bootstrap
+.env
+/node_modules
